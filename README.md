@@ -1,3 +1,3 @@
 # aosoraStory
 
-Repository not in use.
+Source repository for aosoraStory.
